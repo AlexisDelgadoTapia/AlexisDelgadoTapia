@@ -1,0 +1,4 @@
+- 👋 Hola, soy @AlexisDelgadoTapia
+- 👀 Me interesa el desarrollo de aplicaciones moviles y el desarrollo web. 
+- 🌱 Actualmente estoy aprendiendo el lenguaje Kotlin. 
+- 💞️ Estoy buscando colaborar en proyectos de desarrollo movil o web. 
